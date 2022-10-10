@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soonlepapillon" alt="soonlepapillon" /></a> </p>
 
-- 🔭 I’m currently working on [Groupomania](https://github.com/SoonLePapillon/P7_Groupomania)
 
 - 🌱 I’m currently learning **Vue 3**
 
