@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soonbtf" alt="soonbtf" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, TypeScript and Tailwind !**
+- 🌱 I’m currently learning **Vue, TypeScript and Python !**
 
 - 📫 How to reach me **birkyo@gmail.com**
 
