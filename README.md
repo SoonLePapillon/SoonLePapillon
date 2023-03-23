@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soon</h1>
 <h3 align="center">A passionate full stack developer in France</h3>
 
-- 🔭 I’m currently working on [Groupomania V2](https://github.com/soonbtf/Groupomania-V2)
+- 🔭 I’m currently working on [TinyTeams](https://github.com/soonbtf/TinyTeams)
 
 - 🌱 I’m currently learning **Vue 3, TypeScript and Sequelize !**
 
