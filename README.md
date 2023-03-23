@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TinyTeams](https://github.com/soonbtf/TinyTeams)
 
-- 🌱 I’m currently learning **Vue 3, TypeScript and Sequelize !**
+- 🌱 I’m currently learning **Vue 3, Node.js and TypeScript !**
 
 - 📫 How to reach me **birkyo@gmail.com**
 
