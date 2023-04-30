@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soon</h1>
-<h3 align="center">A passionate full stack developer in France</h3>
+<h3 align="center">A passionate developer from France 🥖</h3>
 
 🔭 I’m currently working on [TinyTeams](https://github.com/soonbtf/TinyTeams), a corporate social network
 
