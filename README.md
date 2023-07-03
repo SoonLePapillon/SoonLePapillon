@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soon</h1>
 <h3 align="center">A passionate developer from France 🥖</h3>
 
-🔭 I’m currently working on my [PrettyNotes](https://github.com/soonbtf/amiibo-tracker)
+🔭 I’m currently working on my [Nostalgic Notes](https://github.com/soonbtf/amiibo-tracker)
 
 📖 I'm currently working with Vue.js, Sequelize, SQL and Socket.io
 
