@@ -3,9 +3,9 @@
 
 🔭 I’m currently working on my [Nostalgic Notes](https://github.com/soonbtf/amiibo-tracker)
 
-📖 I'm currently working with Vue.js, Sequelize, SQL and Socket.io
+📖 I'm currently working with TS, Vue.js, Nuxt.js and MongoDB
 
-📌For my next projects, I would like to learn Nest.js and TypeScript.
+🤍 [TinyTeams](https://github.com/soonbtf/TinyTeams) is the latest project I've completed and it's very dear to me."
 
 📫 How to reach me : birkyo@gmail.com
 
