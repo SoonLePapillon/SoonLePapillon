@@ -5,7 +5,7 @@
 
 📖 I'm currently working with TS, Vue.js, Nuxt.js and MongoDB
 
-🤍 [TinyTeams](https://github.com/soonbtf/TinyTeams) is the latest project I've completed and it's very dear to me."
+🤍 [TinyTeams](https://github.com/soonbtf/TinyTeams) is the latest project I've completed and it's very dear to me
 
 📫 How to reach me : birkyo@gmail.com
 
