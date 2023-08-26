@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soon</h1>
 <h3 align="center">A passionate developer from France 🥖</h3>
 
-🔭 I’m currently working on my [Nostalgic Notes](https://github.com/soonbtf/amiibo-tracker)
-
-📖 I'm currently working with TS, Vue.js, Nuxt.js and MongoDB
+📖 I'm currently working with TypeScript & Vue.js
 
 🤍 [TinyTeams](https://github.com/soonbtf/TinyTeams) is the latest project I've completed and it's very dear to me
 
