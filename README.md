@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Soon</h1>
-<h3 align="center">A passionate developer from France 🥖</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm a passionate developer from France 🥖</h3>
 
 📖 I'm currently working with TypeScript & Vue.js
 
-🤍 [TinyTeams](https://github.com/soonbtf/TinyTeams) is the latest project I've completed and it's very dear to me
+🤍 [TinyTeams](https://github.com/almblr/TinyTeams) is the latest project I've completed and it's very dear to me
 
 📫 How to reach me : birkyo@gmail.com
 
